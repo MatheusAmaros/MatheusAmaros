@@ -1,4 +1,4 @@
-<h1>👋 Olá, eu sou o Matheus Amaro Santos</h1>
+<h1>👋 Hello, my name is Matheus Amaro</h1>
 <h2>🌱 Estudando Python, C# e JavaScript</h2>
  <div style="display: inline_block" align="center">
   <a href="https://github.com/MatheusAmaros">
