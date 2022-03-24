@@ -1,5 +1,5 @@
 <h1>👋Olá, meu nome é Matheus Amaro</h1>
-<h2>🌱 Estudando Python, C# e JavaScript</h2>
+<h2>🌱 Estudando Python, C#, JavaScript e Flutter</h2>
  <div style="display: inline_block" align="center">
   <a href="https://github.com/MatheusAmaros">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MatheusAmaros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
