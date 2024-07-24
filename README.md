@@ -9,7 +9,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py, flutter, git, docker,c,arduino	" />
+    <img src="https://skillicons.dev/icons?i=py,flutter,git,docker,c,arduino" />
   </a>
 </p>
   
