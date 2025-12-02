@@ -5,29 +5,10 @@
   <em>estudante de bioinformática • interesse em algoritmos bio-inspirados, redes neurais e modelos estatísticos</em>
 </p>
 
-<p align="center">
-  <a href="#sobre">Sobre</a> •
-  <a href="#projetos-destaque">Projetos</a> •
-  <a href="#skills">Skills</a> •
-  <a href="#estatisticas">Estatísticas</a> •
-  <a href="#contato">Contato</a>
-</p>
-
 ---
 
 ## Sobre
 Sou pesquisador / desenvolvedor com foco em **algoritmos de otimização**, algoritmos bio-inspirados e aplicação de redes neurais em problemas de bioinformática. Atualmente trabalhando em projetos relacionados a alinhamento múltiplo de sequências.
----
-
-## Estatísticas
-
-<p align="center">
-  <a href="https://github.com/MatheusAmaros">
-    <img alt="Matheus' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MatheusAmaros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="140"/>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAmaros&layout=compact&langs_count=7&theme=dracula" height="140"/>
-  </a>
-</p>
-
 ---
 
 ## Contato
